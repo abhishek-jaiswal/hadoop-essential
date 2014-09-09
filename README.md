@@ -1,4 +1,4 @@
-hadoop-essential
-================
+# Hadoop Simple Guide
 
-Big data analytics with python 
+http://abhishek-jaiswal.github.io/
+
